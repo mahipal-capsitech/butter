@@ -1,0 +1,559 @@
+@media (max-width:1367px) {
+    section.second-das .mazor .text{
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+}
+@media (max-width:1270px) {
+    section.second-das .mail{
+        margin-top: 5rem;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        /* border: 1px solid red; */
+    }
+    section.second-das .mail .main-v{
+        width: 30%;
+    }
+    section.second-das .mail .main-v video{
+        width: 100%;
+        object-fit: cover;
+    }
+    section.second-das .mail .text{
+        width: 45%;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+    section.second-das .mail .text h1{
+        font-size: 3.5em;
+    }
+}
+@media (max-width:1209px) {
+    section.second-das .card{
+        margin-top: 2rem;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        /* border: 1px solid red; */
+        /* justify-content:center; */
+    }
+    section.second-das .card .card-1{
+        width: 20%;
+        /* border: 1px solid red; */
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       margin-left: 1rem;
+    }
+    section.second-das .card .card-1 h2{
+        font-size:1rem;
+    }
+    section.second-das .card .card-1 p{
+        margin-top: -0.4rem;
+    }
+}
+
+@media (max-width:1082px) {
+    div.das .text h1{
+        font-size: 3rem; 
+    }
+    
+}
+@media (max-width:1063px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: -8rem;
+        top: 3rem;
+        width: 120px;
+        height: 120px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 0rem;
+        left: -12rem;
+        width: 120px;
+        height: 120px;
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -10rem;
+        width: 120px;
+        height: 120px;
+        transform: rotate(-50deg);
+    }
+}
+@media (max-width:966px) {
+    section.second-das .mail{
+        margin-top: 5rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        /* border: 1px solid red; */
+    }
+    section.second-das .mail .main-v{
+        width: 50%;
+    }
+    section.second-das .mail .text{
+        width: 55%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    section.second-das .mazor .text{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+}
+@media (max-width:982px) {
+    div.das .text{
+        position: absolute;
+        bottom: 7rem;
+        left: 3rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 40%;
+      
+    }
+    div.das .text h1{
+        font-size: 3rem; 
+    }
+
+}
+@media (max-width:886px) {
+    div.das .text{
+        position: absolute;
+        bottom: 7rem;
+        left: 2rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 40%;
+      
+    }
+    div.das .text h1{
+        font-size: 2.5rem; 
+    }
+}
+@media (max-width:817px) {
+    section.second-das .mazor .text{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+    section.second-das .mazor .text h1{
+        font-size: 3.5em;
+    }
+    div.dasfd .text{
+        position: absolute;
+        bottom: 5rem;
+        left: 3rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 90%;
+      
+    }
+    div.dasfd .text h1{
+        font-size: 3.5rem; 
+    }
+}
+@media (max-width:795px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: -8rem;
+        top: 8rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 0rem;
+        left: -12rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -10rem;
+        width: 80px;
+        height: 80px;
+        transform: rotate(-50deg);
+    }
+    section.second-das .sec .text h1{
+        font-size: 6em;
+        line-height: 1.3;
+    }
+}
+@media (max-width:760px) {
+    div.das .text{
+        position: absolute;
+        bottom: 10rem;
+        left: 1rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 40%;
+      
+    }
+    div.das .text h1{
+        font-size: 2rem; 
+    }
+}
+@media (max-width:795px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: 3rem;
+        top: 3rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 1rem;
+        left: -5rem;
+        width: 80px;
+        height: 80px;
+       
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -3rem;
+        width: 80px;
+        height: 80px;
+        transform: rotate(-50deg);
+    }
+    section.second-das .sec{
+        padding-top: 3rem;
+        width: 70%;
+    }
+    section.second-das .sec .text h1{
+        font-size: 5em;
+        line-height: 1.3;
+    }
+}
+@media (max-width:716px) {
+    section.second-das .mail .main-v{
+        width: 50%;
+    }
+    section.second-das .mail .text{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    div.dasfd .text{
+        position: absolute;
+        bottom: 7rem;
+        left: 3rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 50%;
+      
+    }
+    div.dasfd .text h1{
+        font-size: 3rem; 
+    }
+}
+@media (max-width:693px) {
+    section.second-das .card{
+        margin-top: 2rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* border: 1px solid red; */
+        /* justify-content:center; */
+    }
+    section.second-das .card .card-1{
+        width: 90%;
+        /* border: 1px solid red; */
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       margin-left: 1rem;
+    }
+    section.second-das .card .card-1 h2{
+        font-size:1rem;
+    }
+    section.second-das .card .card-1 p{
+        margin-top: -0.4rem;
+    }
+}
+@media (max-width:645px) {
+    div.dasfd .text{
+        position: absolute;
+        bottom: 3rem;
+        left: 3rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 90%;
+      
+    }
+    div.dasfd .text h1{
+        font-size: 2.5rem; 
+        text-shadow: -1px 2px 2px black;
+    }
+    div.dasfd .top{
+        bottom: 0rem;
+        left: 45%;
+    }
+    div.dasfd .top a svg{
+        width: 20px;
+        height: 20px;
+    }
+}
+@media (max-width:606px) {
+    div.das .text{
+        position: absolute;
+        bottom: 10rem;
+        left: 1rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 40%;
+      
+    }
+    div.das .text h1{
+        font-size: 1.5rem; 
+    }
+    nav.navbar .logo a{
+        text-decoration: none;
+        font-size: 1rem;
+        letter-spacing: 2px;
+        color: white;
+    }
+    nav.navbar .menu a{
+        font-size: 1rem;
+        text-decoration: none;
+        color: white;
+        display: block;
+        padding: 8px 12px;
+        transition: all 0.3s ease;
+    }
+    /* .btn{
+        font-size: 0.5rem;
+        padding: 4px 6px;
+     
+        
+    } */
+    div.das .text p{
+        font-size: 0.8rem;
+    }
+    section.second-das .scan{
+        width: 100%;
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        cursor:default;
+        padding-bottom: 1rem;
+    }
+    section.second-das .scan .text_scan{
+        width: 90%;
+    }
+    section.second-das .scan .text_scan h1{
+        font-size: 5em;
+        line-height: 1;
+    }
+    section.second-das .scan .text_scan p{
+        margin-top: -4rem;
+        font-size: 0.8rem;
+    }
+    section.second-das .scan .qr{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40%;
+        background-color: white;
+    }
+    section.second-das .scan .qr img{
+        width: 100%;
+        object-fit: cover;
+    }
+    section.second-das .mazor .image .img-1{
+        width: 100%;
+    }
+}
+@media (max-width:567px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: 3rem;
+        top: 3rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 1rem;
+        left: -5rem;
+        width: 80px;
+        height: 80px;
+       
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -5rem;
+        width: 80px;
+        height: 80px;
+        transform: rotate(-50deg);
+    }
+    section.second-das .sec{
+        padding-top: 3rem;
+        width: 70%;
+    }
+    section.second-das .sec .text h1{
+        font-size: 4.5em;
+        line-height: 1.3;
+    }
+    section.second-das .mazor .text{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+    section.second-das .mazor .text h1{
+        font-size: 3em;
+    }
+}
+@media (max-width:513px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: 3rem;
+        top: 3rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 1rem;
+        left: -5rem;
+        width: 80px;
+        height: 80px;
+       
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -5rem;
+        width: 80px;
+        height: 80px;
+        transform: rotate(-50deg);
+    }
+    section.second-das .sec{
+        padding-top: 3rem;
+        width: 70%;
+    }
+    section.second-das .sec .text h1{
+        font-size: 4em;
+        line-height: 1.5;
+    }
+    section.second-das .sec .text p{
+        font-size: 0.8rem;
+    }
+}
+@media (max-width:486px) {
+    section.second-das .mazor .text{
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+    section.second-das .mazor .text h1{
+        font-size: 2em;
+        margin-bottom:3rem;
+    }
+}
+@media (max-width:457px) {
+    section.second-das .mail .text{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    section.second-das .mail .text h1{
+        font-size: 2.5rem;
+    }
+}
+@media (max-width:484px) {
+    nav.navbar .menu{
+        display: none;
+    }
+    nav.navbar .logo a{
+        font-size: 1.2rem;
+    }
+}
+@media (max-width:435px) {
+    div.das .text{
+        position: absolute;
+        bottom: 4rem;
+        left: 1rem;
+        color: white;
+        /* border: 1px solid red; */
+        width: 60%;
+      
+    }
+    div.das .text h1{
+        text-shadow: 1px -2px 2px black;
+    }
+}
+@media (max-width:395px) {
+    section.second-das .coin-1{
+        position: absolute;
+        right: -3rem;
+        top: 3rem;
+        width: 80px;
+        height: 80px;
+    }
+    section.second-das .coin-2{
+        position: absolute;
+        bottom: 1rem;
+        left: -5rem;
+        width: 80px;
+        height: 80px;
+       
+    }
+    section.second-das .coin-3{
+        position: absolute;
+        bottom: 3rem;
+        right: -5rem;
+        width: 80px;
+        height: 80px;
+        transform: rotate(-50deg);
+    }
+    section.second-das .sec{
+        padding-top: 3rem;
+        width: 70%;
+    }
+    section.second-das .sec .text h1{
+        font-size: 3.5em;
+        line-height: 1.5;
+    }
+    section.second-das .sec .text p{
+        font-size: 0.8rem;
+    }
+}
