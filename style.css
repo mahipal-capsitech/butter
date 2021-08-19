@@ -155,12 +155,13 @@ section.second-das {
     justify-content: center;
     width: 100%;
     color: white;
-    background-color: rgba(20,20,19,1);
+    background-color: #151515;
+    
 }
 section.second-das .sec{
     margin-top: 100vh;
     position: relative;
-    background-color: rgba(20,20,19,1);
+    background-color: #151515;
     display: flex;
     align-items: center;
     justify-content: center;

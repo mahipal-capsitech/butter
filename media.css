@@ -510,7 +510,7 @@
 @media (max-width:435px) {
     div.das .text{
         position: absolute;
-        bottom: 4rem;
+        bottom: 2rem;
         left: 1rem;
         color: white;
         /* border: 1px solid red; */
